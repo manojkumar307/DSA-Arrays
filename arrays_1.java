@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 /**
- * The arrays_1 class contains several examples of 1D and 2D array manipulations.
+ * The arrays_1 class contains several examples of 1D and 2D array man
  * 
  * Sections 1, 2, and 3 are commented-out practice routines covering:
  *   1. Sum and maximum of even numbers in a 1D array.
